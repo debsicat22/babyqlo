@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Baby Shorts",
+        "price": "₱500",
+        "image": "img/products/babyshorts.jpg",
+        "description": "",
+        "category": "Shorts"
+    },
+    {
+        "id": 2,
+        "name": "Baby Shirt",
+        "price": "₱500",
+        "image": "img/products/babyshirts.jpg",
+        "description": "",
+        "category": "Shirts"
+    },
+    {
+        "id": 3,
+        "name": "Baby Gloves",
+        "price": "₱200",
+        "image": "img/products/babygloves.jpg",
+        "description": "",
+        "category": "Gloves"
+    },
+    {
+        "id": 4,
+        "name": "Baby Socks",
+        "price": "₱200",
+        "image": "img/products/babysocks.jpg",
+        "description": "",
+        "category": "Socks"
+    },
+    {
+        "id": 5,
+        "name": "Baby Masks",
+        "price": "₱150",
+        "image": "img/products/babymasks.jpeg",
+        "description": "",
+        "category": "Masks"
+    }
+]
